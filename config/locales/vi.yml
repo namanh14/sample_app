@@ -2,9 +2,10 @@ vi:
   static_pages:
     home:
       home: "Trang chủ"
-      sample_app: "Ứng dụng mẫu"
-      home_pages: "Đây là trang chủ cho"
+      This_is: "Đây là trang chủ cho"
       sample_application: "ứng dụng mẫu."
+      Welcome_to: "Chào mừng đến với ứng dụng mẫu"
+      sign_up: "Đăng ký ngay bây giờ"
     help:
       help: "Hỗ trợ"
       get_help: "Nhận sự hỗ trợ Ruby on Rails tại "
@@ -18,14 +19,26 @@ vi:
       book: "cuốn sách"
       and: "và"
       screencast: "tuyển tập screencast"
-      teach: "để dạy phát triền web với "
+      teach: "để dạy phát triển web với "
       intro: "Đây là ứng dụng mẫu cho hướng dẫn."
     contact:
       contact: "Liên hệ"
-      contact_at: "Liên hệ tại"
-      contact_page: "trang nay"
+      contact_at: "Liên hệ với Hướng dẫn về Ruby on Rails về ứng dụng mẫu tại"
+      contact_page: "trang này"
+  users:
+    new:
+      sign_up: "Đăng ký"
+      this_will: "Đây sẽ là trang đăng ký cho người dùng mới"
   tutorial: "Hướng dẫn Ruby on Rails"
   ruby: "Ruby on Rails"
   ror_sampleapp: "Hướng dẫn ứng dụng mẫu Ruby on Rails"
   english: "Tiếng anh"
-vietnam: "Tiếng việt"
+  vietnam: "Tiếng việt"
+  log_in: "Đăng nhập"
+  by: "bởi"
+  new: "MỚi"
+  home: "Trang chủ"
+  contact: "Liên Hệ"
+  about: "Về chúng tôi"
+  help: "hỗ trợ"
+sample_app: "Ứng dụng mẫu"
