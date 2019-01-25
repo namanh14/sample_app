@@ -28,7 +28,11 @@ vi:
   users:
     new:
       sign_up: "Đăng ký"
-      this_will: "Đây sẽ là trang đăng ký cho người dùng mới"
+      name: "Họ tên"
+      email: "E.mail"
+      pass: "Mật khẩu"
+      confi: "xác nhận mật khẩu"
+      create: "Tạo tài khoản của tôi"
   tutorial: "Hướng dẫn Ruby on Rails"
   ruby: "Ruby on Rails"
   ror_sampleapp: "Hướng dẫn ứng dụng mẫu Ruby on Rails"
@@ -41,4 +45,9 @@ vi:
   contact: "Liên Hệ"
   about: "Về chúng tôi"
   help: "hỗ trợ"
-sample_app: "Ứng dụng mẫu"
+  sample_app: "Ứng dụng mẫu"
+  error_signup: "Đăng ký thất bại!"
+  error_find_user: "Tìm thất bại"
+  form_contains: "Biểu mẫu có chứa"
+  error: "lỗi"
+  Welcome_App!: "Chào mừng đến với ứng dụng mẫu!"
