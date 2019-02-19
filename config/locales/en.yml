@@ -28,7 +28,11 @@ en:
   users:
     new:
       sign_up: "Sign up"
-      this_will: "This will be a signup page for new users."
+      name: "Name"
+      email: "Email"
+      pass: "Password"
+      confi: "confirmation"
+      create: "Create my account"
   tutorial: "Ruby on Rails Tutorial"
   ruby: "Ruby on Rails"
   ror_sampleapp: "Ruby on Rails Tutorial Sample App"
@@ -41,4 +45,9 @@ en:
   about: "About"
   help: "Help"
   contact: "Contact"
-sample_app: "Sample App"
+  sample_app: "Sample App"
+  error_signup: "sign up to fail!"
+  error_find_user: "user not found"
+  form_contains: "The form contains"
+  error: "error"
+  Welcome_App!: "Welcome to the Sample App!"
